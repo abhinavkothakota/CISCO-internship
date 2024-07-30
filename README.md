@@ -79,7 +79,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
-- **Email**: [shanmukh868@gmail.com](mailto:shanmukh868@gmail.com)
+- **Name**: K.Abhinav
+- **Email**: [2003abhinavk@gmail.com](mailto:2003abhinavk@gmail.com)
 
 
